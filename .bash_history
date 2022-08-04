@@ -75,3 +75,7 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/vamshi516/events-app-external.git
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/vamshi516/events-app-external.git
+git init
